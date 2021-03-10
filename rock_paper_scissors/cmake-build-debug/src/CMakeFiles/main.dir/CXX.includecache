@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/src/game.h
+
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/src/main.cpp
+iostream
+-
+game.h
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/src/game.h
+

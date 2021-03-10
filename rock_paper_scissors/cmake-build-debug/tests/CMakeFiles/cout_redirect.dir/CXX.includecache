@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/tests/cout_redirect.cpp
+cout_redirect.h
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/tests/cout_redirect.h
+
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/tests/cout_redirect.h
+iostream
+-
+streambuf
+-
+stdio.h
+-
+iostream
+-
+streambuf
+-
+stdlib.h
+-
+string
+-
+sstream
+-
+

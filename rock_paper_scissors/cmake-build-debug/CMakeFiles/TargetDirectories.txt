@@ -1,0 +1,10 @@
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/src/CMakeFiles/mylib.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/src/CMakeFiles/main.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/tests/CMakeFiles/cout_redirect.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/tests/CMakeFiles/main_test.dir
+C:/Users/GodYourFather/Documents/OOP/rock_paper_scissors/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
